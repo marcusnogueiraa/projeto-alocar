@@ -14,6 +14,6 @@ de interface gráfica, com manipulações simples de arquivos (ler e escrever ar
 > - Implementar Tratamento de Erros.
 > - Corrigir gambiarras e adcionar outras funções.
 
-> **Observação:** Esse projeto não está completo e algumas funções podem não funcionar corretamente. Por mais que as alterações subsequentes do projeto sejam feitas exclusivamente por mim, a versão original do projeto possui também a autoria de outros dois alunos: Pedro Wilson e Pedro Nóbrega.
+> **Observação:** Esse projeto não está completo e algumas funções podem não funcionar corretamente. O programa só executa no windows devido o uso da biblioteca "windows.h" para utilização dos comandos do cmd (uso estético), isso será corrigido em breve. Por mais que as alterações subsequentes do projeto sejam feitas exclusivamente por mim, a versão original do projeto possui também a autoria de outros dois alunos: Pedro Wilson e Pedro Nóbrega.
 
                                                                                                           - Quixadá CE, 26/10/2022
